@@ -17,3 +17,9 @@ func main() {
 	fmt.Println("Hello World.")
 }
 ```
+
+## Data Types
+![Alt text](go/basic_data_types.png "Basic")
+
+![Alt text](go/data_types.png "Basic")
+
